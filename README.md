@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm orange belt in Iaijutsu
 
+Comitando pela primera vez por linha de comando
