@@ -2,12 +2,12 @@
 > From lifelong player to aspiring game developer — now it's my turn to create.
 
 ## 🧙‍♂️ About Me
-I was born in 1986 in São Paulo, Brazil <br>
+I was born in 1986 in São Paulo, Brazil. <br>
 Pronouns: He/Him/His<br>
-Fun fact: I'm orange belt in <a href="https://www.niten.org.br/penaespada/penaartigos/iaijutsu_iaido.html" target="_blank">Iaijutsu</a><br>
+Fun fact: I'm orange belt in <a href="https://www.niten.org.br/penaespada/penaartigos/iaijutsu_iaido.html" target="_blank">Iaijutsu.</a><br>
 
 ## 🏹 Professional Life
-I'm currently working as a regulatory analyst at a digital bank, but my goal is to transition to a career in game development<br>
+I'm currently working as a regulatory analyst at a digital bank, but my goal is to transition to a career in game development.<br>
 I also have a degree in audiovisual, and I like working with audio and video.<br>
 
 ## ⚔️ My Journey
@@ -68,44 +68,41 @@ This is my journey into game development, and I’m excited to see how far it ta
 ## 💻 Tech Stack
 ### 📚 Currently Learning
 
-<table>
+<table style="table-layout: fixed; width: 100%;">
   <tr>
-    <td align="center">
+    <td align="center" width="20%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="50"><br>
       <strong>Godot</strong><br>
       Engine
     </td>
-    <td align="center">
+    <td align="center" width="20%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="50"><br>
       <strong>GDScript</strong><br>
       Scripting
     </td>
-    <td align="center">
+    <td align="center" width="20%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="50"><br>
       <strong>Blender</strong><br>
       2D/3D Creation
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="20%">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50"><br>
       <strong>Git & GitHub</strong><br>
       Version Control
     </td>
-    <td align="center">
-  <div style="font-size:50px;">⚙️</div>
-  <strong>Game Design</strong><br>
-  Systems & Mechanics
-</td>
-
-
-
+    <td align="center" width="20%">
+      <div style="font-size:50px;">⚙️</div>
+      <strong>Game Design</strong><br>
+      Systems & Mechanics
+    </td>
   </tr>
 </table>
 
-### 🎯 Want to Learn
 
-<table>
+
+
+### 🎯 Want to Learn
+<table style="table-layout: fixed; width: 100%; display: table;">
   <tr>
     <td align="center">
       <div style="font-size:30px;">🟦🟩🟥</div>
@@ -122,43 +119,64 @@ This is my journey into game development, and I’m excited to see how far it ta
       <strong>C#</strong><br>
       Programming
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <div style="font-size:50px;">🎧</div>
+      <div style="font-size:40px;">🎧</div>
       <strong>Audio Design</strong><br>
       Sound & FX
     </td>
-    <td align="center">
-      <div style="font-size:50px;">🖥️</div>
+  </tr>
+</table>
+<table style="table-layout: fixed; width: 50%; margin: 0 auto;">
+  <tr>
+    <td align="center" width="33%">
+      <div style="font-size:40px;">🖥️</div>
       <strong>UI Design</strong><br>
       Interface & UX
     </td>
-    <td align="center">
-      <div style="font-size:50px;">📜</div>
+    <td align="center" width="33%">
+      <div style="font-size:40px;">📜</div>
       <strong>Narrative Design</strong><br>
       Story & Writing
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <div style="font-size:50px;">🗺️</div>
+    <td align="center" width="33%">
+      <div style="font-size:40px;">🗺️</div>
       <strong>Level Design</strong><br>
       Layout & Flow
     </td>
   </tr>
 </table>
 
+## 🕹️ Featured Project — Samurai Runner
+
+<p><strong>Samurai Runner</strong> is a 2D prototype game built in <strong>Godot 4</strong>.  
+The project serves as a study environment to learn:</p>
+
+<ul>
+  <li>🎮 Player movement</li>
+  <li>🎞️ Animation workflow</li>
+  <li>📷 Camera behavior</li>
+  <li>🌄 Parallax background</li>
+  <li>⚙️ General game development processes</li>
+</ul>
+
+<p>
+My goal with this project is to practice core game development skills while building a small but functional prototype.  
+It represents my <strong>first step into Godot</strong> and my journey toward becoming a game developer.
+</p>
+
+🔗 <strong>Repository:</strong> https://github.com/fBoni/samurai-runner
+
 
 ## 🎒 Start the quest: connect with me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/kimeworks/)
-[![Backloggd](https://img.shields.io/badge/Backloggd-000000?logoColor=white&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAclBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+XSu2fAAAAJXRSTlMAAQIDBAUGCAkKCwwNDg8QERITFBUWFxgZHB0eHyAhIiMlJyssLCwsU8QvAAAAQklEQVQY033Q2Q6AIBAF0FnS3e2u9/9vQ8x6VFYJCPuNenE2noKGItgRZtGJPD7W82dManIeZDVAD6QSSHqKTeWYIAvzkdxlIo0NGdisz8Iky3Uczdlz7YT1DoP70AAAAASUVORK5CYII=)](https://backloggd.com/u/Bonifacts/)
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge)](https://felipebonifacts.itch.io/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white&style=for-the-badge)](https://bsky.app/profile/felipe-boni.bsky.social)
+[![Backloggd](https://img.shields.io/badge/Backloggd-000000?logoColor=white&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAclBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+XSu2fAAAAJXRSTlMAAQIDBAUGCAkKCwwNDg8QERITFBUWFxgZHB0eHyAhIiMlJyssLCwsU8QvAAAAQklEQVQY033Q2Q6AIBAF0FnS3e2u9/9vQ8x6VFYJCPuNenE2noKGItgRZtGJPD7W82dManIeZDVAD6QSSHqKTeWYIAvzkdxlIo0NGdisz8Iky3Uczdlz7YT1DoP70AAAAASUVORK5CYII=)](https://backloggd.com/u/Bonifacts/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:felipebonifacio@gmail.com)
 
 
+
+### 🏷️ You also can follow my work/projects
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/kimeworks/)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge)](https://felipebonifacts.itch.io/)
 
 
 
