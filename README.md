@@ -31,7 +31,7 @@ This is my journey into game development, and I’m excited to see how far it ta
 <table>
   <tr>
     <td align="center">
-      <img src="https://bibliotecaelfica.org/wp-content/uploads/2023/01/dd-4e-livro-do-jogador-biblioteca-c3a9lfica.jpg" width="150"><br>
+      <img src="https://m.media-amazon.com/images/I/9129Jy0ELnL._AC_UF1000,1000_QL80_.jpg" width="150"><br>
       <strong>Dungeons & Dragons</strong><br>
       <em>My gateway to storytelling, world-building, and character creation.</em>
     </td>
