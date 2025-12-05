@@ -1,17 +1,16 @@
 # 👋 Hi I'm Felipe Bonifacio
 > From lifelong player to aspiring game developer — now it's my turn to create.
 
-## 😄 About Me:
+## 🧙‍♂️ About Me:
 I was born in 1986 in São Paulo, Brazil <br>
 Pronouns: He/Him/His<br>
 Fun fact: I'm orange belt in <a href="https://www.niten.org.br/penaespada/penaartigos/iaijutsu_iaido.html" target="_blank">Iaijutsu</a><br>
 
-## 🏦 Professional Life
+## 🏹 Professional Life
 I'm currently working as a regulatory analyst at a digital bank, but my goal is to transition to a career in game development<br>
-
 I also have a degree in audiovisual, and I like working with audio and video.<br>
 
-## 🗺️ My Journey
+## ⚔️ My Journey
 As you can see, I don't have a tech background, so I'm starting this journey from zero.<br>
 But I love videogames, and for years I’ve dreamed of creating the kind of worlds I used to escape into.<br>
 
@@ -94,7 +93,7 @@ This is my journey into game development, and I’m excited to see how far it ta
       Version Control
     </td>
     <td align="center">
-  <div style="font-size:40px;">⚙️</div>
+  <div style="font-size:50px;">⚙️</div>
   <strong>Game Design</strong><br>
   Systems & Mechanics
 </td>
@@ -126,24 +125,24 @@ This is my journey into game development, and I’m excited to see how far it ta
   </tr>
   <tr>
     <td align="center">
-      <div style="font-size:40px;">🎧</div>
+      <div style="font-size:50px;">🎧</div>
       <strong>Audio Design</strong><br>
       Sound & FX
     </td>
     <td align="center">
-      <div style="font-size:40px;">🖥️</div>
+      <div style="font-size:50px;">🖥️</div>
       <strong>UI Design</strong><br>
       Interface & UX
     </td>
     <td align="center">
-      <div style="font-size:40px;">📜</div>
+      <div style="font-size:50px;">📜</div>
       <strong>Narrative Design</strong><br>
       Story & Writing
     </td>
   </tr>
   <tr>
     <td align="center">
-      <div style="font-size:40px;">🗺️</div>
+      <div style="font-size:50px;">🗺️</div>
       <strong>Level Design</strong><br>
       Layout & Flow
     </td>
@@ -151,7 +150,7 @@ This is my journey into game development, and I’m excited to see how far it ta
 </table>
 
 
-## 🌐 Start the quest: connect with me
+## 🎒 Start the quest: connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/kimeworks/)
 [![Backloggd](https://img.shields.io/badge/Backloggd-000000?logoColor=white&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAclBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////+XSu2fAAAAJXRSTlMAAQIDBAUGCAkKCwwNDg8QERITFBUWFxgZHB0eHyAhIiMlJyssLCwsU8QvAAAAQklEQVQY033Q2Q6AIBAF0FnS3e2u9/9vQ8x6VFYJCPuNenE2noKGItgRZtGJPD7W82dManIeZDVAD6QSSHqKTeWYIAvzkdxlIo0NGdisz8Iky3Uczdlz7YT1DoP70AAAAASUVORK5CYII=)](https://backloggd.com/u/Bonifacts/)
@@ -172,5 +171,5 @@ This is my journey into game development, and I’m excited to see how far it ta
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fBoni&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=fBoni&icon=0&color=0)](https://visitcount.itsvg.in)
