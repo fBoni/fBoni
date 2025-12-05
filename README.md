@@ -1,7 +1,7 @@
 # 👋 Hi I'm Felipe Bonifacio
 > From lifelong player to aspiring game developer — now it's my turn to create.
 
-## 🧙‍♂️ About Me:
+## 🧙‍♂️ About Me
 I was born in 1986 in São Paulo, Brazil <br>
 Pronouns: He/Him/His<br>
 Fun fact: I'm orange belt in <a href="https://www.niten.org.br/penaespada/penaartigos/iaijutsu_iaido.html" target="_blank">Iaijutsu</a><br>
@@ -65,7 +65,7 @@ This is my journey into game development, and I’m excited to see how far it ta
 </table>
 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ### 📚 Currently Learning
 
 <table>
@@ -162,7 +162,7 @@ This is my journey into game development, and I’m excited to see how far it ta
 
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=fBoni&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=fBoni&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fBoni&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
