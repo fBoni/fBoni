@@ -72,24 +72,24 @@ This is my journey into game development, and I’m excited to see how far it ta
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="50"><br>
       <strong>Godot</strong><br>
       Engine
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="50"><br>
       <strong>GDScript</strong><br>
       Scripting
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="50"><br>
       <strong>Blender</strong><br>
       2D/3D Creation
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50"><br>
       <strong>Git & GitHub</strong><br>
       Version Control
     </td>
@@ -114,12 +114,12 @@ This is my journey into game development, and I’m excited to see how far it ta
       2D Art
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="50"><br>
       <strong>Unity</strong><br>
       Engine
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="80"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="50"><br>
       <strong>C#</strong><br>
       Programming
     </td>
@@ -158,8 +158,6 @@ This is my journey into game development, and I’m excited to see how far it ta
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white&style=for-the-badge)](https://felipebonifacts.itch.io/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white&style=for-the-badge)](https://bsky.app/profile/felipe-boni.bsky.social)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:felipebonifacio@gmail.com)
-
-
 
 
 
