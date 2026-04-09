@@ -146,25 +146,7 @@ This is my journey into game development, and I’m excited to see how far it ta
   </tr>
 </table>
 
-## 🕹️ Featured Project — Samurai Runner
 
-<p><strong>Samurai Runner</strong> is a 2D prototype game built in <strong>Godot 4</strong>.  
-The project serves as a study environment to learn:</p>
-
-<ul>
-  <li>🎮 Player movement</li>
-  <li>🎞️ Animation workflow</li>
-  <li>📷 Camera behavior</li>
-  <li>🌄 Parallax background</li>
-  <li>⚙️ General game development processes</li>
-</ul>
-
-<p>
-My goal with this project is to practice core game development skills while building a small but functional prototype.  
-It represents my <strong>first step into Godot</strong> and my journey toward becoming a game developer.
-</p>
-
-🔗 <strong>Repository:</strong> https://github.com/fBoni/samurai-runner
 
 
 ## 🎒 Start the quest: connect with me
