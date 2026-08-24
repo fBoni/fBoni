@@ -4,7 +4,7 @@
 ## 🧙‍♂️ About Me
 I was born in 1986 in São Paulo, Brazil. <br>
 Pronouns: He/Him/His<br>
-Fun fact: I'm orange belt in <a href="https://www.niten.org.br/penaespada/penaartigos/iaijutsu_iaido.html" target="_blank">Iaijutsu.</a><br>
+Fun fact: I'm red belt in <a href="https://www.niten.org.br/penaespada/penaartigos/iaijutsu_iaido.html" target="_blank">Iaijutsu.</a><br>
 
 ## 🏹 Professional Life
 I'm currently working as a regulatory analyst at a digital bank, but my goal is to transition to a career in game development.<br>
