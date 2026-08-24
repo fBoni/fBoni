@@ -1,4 +1,4 @@
-# 👋 Hi I'm Felipe Bonifacio
+# 👋 Hi I'm Felipe Bonifacio, aka<Bonifacts
 > From lifelong player to aspiring game developer — now it's my turn to create.
 
 ## 🧙‍♂️ About Me
